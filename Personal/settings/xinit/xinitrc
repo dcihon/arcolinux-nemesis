@@ -32,11 +32,11 @@ volumeicon &
 sxhkd -c ~/.config/arco-chadwm/sxhkd/sxhkdrc &
 
 feh --bg-fill /usr/share/backgrounds/arcolinux/arco-wallpaper.jpg &
-#feh --randomize --bg-fill /home/erik/Insync/Apps/Wallhaven/*
+#feh --randomize --bg-fill /home/demo/Insync/Apps/Wallhaven/*
 #feh --bg-fill ~/.config/arco-chadwm/wallpaper/chadwm.jpg &
 #feh --bg-fill /usr/share/archlinux-tweak-tool/data/wallpaper/wallpaper.png &
 
-sh /home/erik/.config/arco-chadwm/scripts/bar.sh &
+sh /home/demo/.config/arco-chadwm/scripts/bar.sh &
 
 exec chadwm  > ~/.xsession-errors 2>&1
 
@@ -48,7 +48,7 @@ exec chadwm  > ~/.xsession-errors 2>&1
 # session=${1:-chadwm}
 
 # case $session in
-#     chadwm            ) exec /home/erik/config/arco-chadwm/scripts/run.sh;;
+#     chadwm            ) exec /home/demo/config/arco-chadwm/scripts/run.sh;;
 #     i3|i3wm           ) exec i3;;
 #     kde               ) exec startplasma-x11;;
 #     xfce|xfce4        ) exec startxfce4;;
