@@ -14,7 +14,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik">
+ <bookmark href="file:///home/demo">
   <title>Home</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -27,7 +27,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/Desktop">
+ <bookmark href="file:///home/demo/Desktop">
   <title>Desktop</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -90,7 +90,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/Downloads">
+ <bookmark href="file:///home/demo/Downloads">
   <title>Downloads</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -103,7 +103,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/Music">
+ <bookmark href="file:///home/demo/Music">
   <title>Music</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -115,7 +115,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/Pictures">
+ <bookmark href="file:///home/demo/Pictures">
   <title>Pictures</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -128,7 +128,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/Videos">
+ <bookmark href="file:///home/demo/Videos">
   <title>Videos</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -155,7 +155,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/.cache">
+ <bookmark href="file:///home/demo/.cache">
   <title>.cache</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -168,7 +168,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/.config">
+ <bookmark href="file:///home/demo/.config">
   <title>.config</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -181,7 +181,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/.local">
+ <bookmark href="file:///home/demo/.local">
   <title>.local</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -194,7 +194,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/DATA">
+ <bookmark href="file:///home/demo/DATA">
   <title>DATA</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -207,7 +207,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/Insync">
+ <bookmark href="file:///home/demo/Insync">
   <title>Insync</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -220,7 +220,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/ARCO/ARCOLINUX">
+ <bookmark href="file:///home/demo/ARCO/ARCOLINUX">
   <title>ARCOLINUX</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -233,7 +233,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/ARCO/ARCOLINUXD">
+ <bookmark href="file:///home/demo/ARCO/ARCOLINUXD">
   <title>ARCOLINUXD</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -246,7 +246,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/ARCO/ARCOLINUXB">
+ <bookmark href="file:///home/demo/ARCO/ARCOLINUXB">
   <title>ARCOLINUXB</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -259,7 +259,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/ARCO/ARCOLINUX-CAL">
+ <bookmark href="file:///home/demo/ARCO/ARCOLINUX-CAL">
   <title>ARCOLINUX-CAL</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -272,7 +272,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/ARCO/ARCOLINUX-CONFIG">
+ <bookmark href="file:///home/demo/ARCO/ARCOLINUX-CONFIG">
   <title>ARCOLINUX-CONFIG</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -285,7 +285,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/ARCO/ARCOLINUX-DCONF">
+ <bookmark href="file:///home/demo/ARCO/ARCOLINUX-DCONF">
   <title>ARCOLINUX-DCONF</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -298,7 +298,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/ARCO/ARCOLINUX-DESKTOP">
+ <bookmark href="file:///home/demo/ARCO/ARCOLINUX-DESKTOP">
   <title>ARCOLINUX-DESKTOP</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -311,7 +311,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/ARCO/ARCOLINUX-ISO">
+ <bookmark href="file:///home/demo/ARCO/ARCOLINUX-ISO">
   <title>ARCOLINUX-ISO</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -324,7 +324,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/ARCO/ARCOLINUX-REPO">
+ <bookmark href="file:///home/demo/ARCO/ARCOLINUX-REPO">
   <title>ARCOLINUX-REPO</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -337,7 +337,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/ARCO/CARLI">
+ <bookmark href="file:///home/demo/ARCO/CARLI">
   <title>CARLI</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -350,7 +350,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/ALCI">
+ <bookmark href="file:///home/demo/ALCI">
   <title>ALCI</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -376,7 +376,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/.icons">
+ <bookmark href="file:///home/demo/.icons">
   <title>.icons</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -402,7 +402,7 @@
    </metadata>
   </info>
  </bookmark>
- <bookmark href="file:///home/erik/.themes">
+ <bookmark href="file:///home/demo/.themes">
   <title>.themes</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -532,7 +532,7 @@
   </info>
   <title>465.5 GiB Hard Drive</title>
  </separator>
- <bookmark href="file:///home/erik/Documents">
+ <bookmark href="file:///home/demo/Documents">
   <title>Documents</title>
   <info>
    <metadata owner="http://freedesktop.org">
