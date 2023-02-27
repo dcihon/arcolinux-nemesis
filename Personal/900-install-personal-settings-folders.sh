@@ -118,6 +118,8 @@ cp $installed_dir/settings/shell-personal/.zshrc ~/.zshrc
 sudo cp -f $installed_dir/settings/shell-personal/.zshrc /etc/skel/.zshrc
 cp $installed_dir/settings/shell-personal/.zshrc-personal ~/.zshrc-personal
 cp $installed_dir/settings/fish/alias.fish ~/.config/fish/alias.fish
+cp $installed_dir/settings/alacritty/alacritty.yml ~/.config/alacritty/alacritty.yml
+
 echo
 echo "Installing personal settings of variety"
 echo
