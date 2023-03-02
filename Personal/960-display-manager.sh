@@ -92,13 +92,13 @@ if grep -q "archlinux" /etc/os-release; then
 	echo "Any time tosddm"
 	echo
 	echo "Copying sddm files"
-	sudo pacman -S --noconfirm --needed sddm arcolinux-sddm-simplicity-git
+	sudo pacman -S --noconfirm --needed sddm arcolinux-sddm-archpaint-git
 	sudo cp -f /usr/share/archlinux-tweak-tool/data/arco/sddm/sddm.conf /etc/sddm.conf
 
 	[ -d /etc/sddm.conf.d ] || sudo mkdir /etc/sddm.conf.d
 	sudo cp -f /usr/share/archlinux-tweak-tool/data/arco/sddm.conf.d/kde_settings.conf /etc/sddm.conf.d/kde_settings.conf
 	FIND="Current=breeze"
-	REPLACE="Current=arcolinux-simplicity"
+	REPLACE="Current=arcolinux-archpaint"
 	sudo sed -i "s/$FIND/$REPLACE/g" /etc/sddm.conf
 
 	if [ -f /etc/lightdm/lightdm.conf ]; then
