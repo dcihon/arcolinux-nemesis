@@ -62,7 +62,7 @@ echo
 #sudo pacman -S --noconfirm --needed wps-office
 #sudo pacman -S --noconfirm --needed wps-office-mime
 sudo pacman -S --noconfirm --needed adobe-source-sans-fonts
-sudo pacman -S --noconfirm --needed aic94xx-firmware
+#sudo pacman -S --noconfirm --needed aic94xx-firmware
 sudo pacman -S --noconfirm --needed alacritty
 sudo pacman -S --noconfirm --needed alacritty-themes
 sudo pacman -S --noconfirm --needed arandr
