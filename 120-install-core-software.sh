@@ -98,7 +98,7 @@ sudo pacman -S --noconfirm --needed firefox
 sudo pacman -S --noconfirm --needed flameshot-git
 #sudo pacman -S --noconfirm --needed fluent-icon-theme-git
 sudo pacman -S --noconfirm --needed font-manager
-sudo pacman -S --noconfirm --needed galculator
+#sudo pacman -S --noconfirm --needed galculator
 #sudo pacman -S --noconfirm --needed gimp
 sudo pacman -S --noconfirm --needed git
 sudo pacman -S --noconfirm --needed gitahead-bin
@@ -113,8 +113,8 @@ sudo pacman -S --noconfirm --needed hardinfo-gtk3
 sudo pacman -S --noconfirm --needed hddtemp
 sudo pacman -S --noconfirm --needed htop
 sudo pacman -S --noconfirm --needed hw-probe
-sudo pacman -S --noconfirm --needed inkscape
-sudo pacman -S --noconfirm --needed insync
+#sudo pacman -S --noconfirm --needed inkscape
+#sudo pacman -S --noconfirm --needed insync
 sudo pacman -S --noconfirm --needed kvantum
 sudo pacman -S --noconfirm --needed linux-firmware-qlogic
 sudo pacman -S --noconfirm --needed bitwarden
@@ -159,7 +159,7 @@ sudo pacman -S --noconfirm --needed squashfs-tools
 sudo pacman -S --noconfirm --needed sublime-text-4
 sudo pacman -S --noconfirm --needed surfn-icons-git
 sudo pacman -S --noconfirm --needed system-config-printer
-sudo pacman -S --noconfirm --needed telegram-desktop
+#sudo pacman -S --noconfirm --needed telegram-desktop
 sudo pacman -S --noconfirm --needed the_platinum_searcher-bin
 sudo pacman -S --noconfirm --needed the_silver_searcher
 sudo pacman -S --noconfirm --needed time
