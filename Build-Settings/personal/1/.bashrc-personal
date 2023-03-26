@@ -1,0 +1,1 @@
+alias getnemesis='cp -Rf get-nemesis-on-arcolinux /usr/local/bin && cp -Rf get-nemesis-on-arcolinux /usr/share/archlinux-tweak-tool/data/arch/bin && cp -Rf get-nemesis-on-arcolinux /usr/share/archlinux-tweak-tool/data/arco/bin && cp -Rf get-nemesis-on-att /usr/bin'
