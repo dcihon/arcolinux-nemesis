@@ -361,6 +361,14 @@ if grep -q "Archman" /etc/os-release; then
   sudo rm /etc/modprobe.d/disable-evbug.conf
   sudo rm /etc/modprobe.d/nobeep.conf
 
+  sudo rm /etc/skel/.config/Kvantum/kvantum.kvconfig
+  sudo rm /etc/skel/.config/Trolltech.conf
+  sudo rm /etc/skel/.config/fontconfig/fonts.conf
+  sudo rm /etc/skel/.config/gtk-3.0/settings.ini
+  sudo rm /etc/skel/.config/variety/variety.conf
+  sudo rm /etc/skel/.gtkrc-2.0
+
+
   echo
   tput setaf 2
   echo "################################################################"
