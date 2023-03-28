@@ -39,6 +39,7 @@ sudo pacman -R --noconfirm adobe-source-han-sans-cn-fonts
 sudo pacman -R --noconfirm adobe-source-han-sans-jp-fonts
 sudo pacman -R --noconfirm adobe-source-han-sans-kr-fonts
 sudo pacman -R --noconfirm archinstall
+sudo pacman -R --noconfirm galculator
 
 # remove where ever we are
 
